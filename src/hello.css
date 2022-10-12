@@ -1,0 +1,16 @@
+.Hello{
+   background-color: purple;
+   color: white;
+}
+.Hello:hover{
+    background-color: aqua;
+    color: black;
+}
+.app{
+    background-color: green;
+    color: black;
+}
+.app:hover{
+    background-color: aqua;
+    color: black;
+}
