@@ -31,7 +31,7 @@ jobs:
           node-version: 12
     
       - name: Install NodeJS
-        uses: Borales/actions-yarn@v2.0.0
+        uses: Borales/actions-yarn@v3.0.0
         with:
           cmd: install  # will run 'yarn build' command
       
