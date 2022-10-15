@@ -37,7 +37,7 @@ jobs:
       
       - name: Build React app
         run: yarn build
-        RUN chown -R node.node /app
+             chown -R node.node /app
       
       - name: install surge
         run: npm install --global surge
